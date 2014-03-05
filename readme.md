@@ -1,4 +1,4 @@
-OGC(r) KML schema ReadMe
+OGC(r) KML schema
 ======================================================================
 
 This repository hosts the latest OGC-approved versions of the Keyhole Markup Language (KML) schema.
